@@ -1,0 +1,1 @@
+cmd_/home/akshay/modules2/akshaymodule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/akshay/modules2/akshaymodule.ko /home/akshay/modules2/akshaymodule.o /home/akshay/modules2/akshaymodule.mod.o
